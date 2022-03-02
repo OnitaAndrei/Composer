@@ -6,6 +6,6 @@ class Hello
 {
     public function helloWorld(): void
     {
-        echo "sussy baka";
+        echo "1337";
     }
 }
